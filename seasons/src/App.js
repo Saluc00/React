@@ -1,7 +1,7 @@
 import React, { lazy, Suspense } from "react";
 import { isWithinInterval } from "date-fns";
 
-import Season from "./components/Saison/Saison";
+import Season from "./components/Season/Season";
 import data from './data/data.json'
 import Modal from "./components/Modal/Modal";
 
